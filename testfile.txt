@@ -3,7 +3,5 @@ git by adamla.
 oh no.
 <<<<<<< HEAD
 uuu
-=======
-www
 ppp
 >>>>>>> nihao
